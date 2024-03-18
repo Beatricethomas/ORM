@@ -2,7 +2,7 @@
 ## Date: 14-03-2024
 
 ## AIM
-To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
+To develop a Django application to store and retrieve data from a Train booking database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
 
@@ -20,7 +20,7 @@ Create a new app in Django project
 Enter the code for admin.py and models.py
 
 ### STEP 4:
-Execute Django admin and create details for 10 books
+Execute Django admin and create details for 10 trains
 
 ## PROGRAM
 
