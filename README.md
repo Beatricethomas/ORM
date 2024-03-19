@@ -6,7 +6,8 @@ To develop a Django application to store and retrieve data from a Train booking 
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
+![Screenshot 2024-03-19 104653](https://github.com/Beatricethomas/ORM/assets/140035214/a313b3d3-64de-4608-8d80-18044aa4f93f)
+
 
 ## DESIGN STEPS
 
